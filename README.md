@@ -12,13 +12,8 @@ CrimePulse is a crime analytics platform that provides real-time crime insights 
 ## Tech Stack
 - Frontend: HTML, CSS, JS / React
 - Backend: Python (Flask/FastAPI)
-- Database: (add yours)
-- ML: (add your models)
-
-## How to Run
-1. Clone repo
-2. Install requirements
-3. Run server
+- Database: 
+- ML: 
 
 ## Future Improvements
 - AI prediction models
